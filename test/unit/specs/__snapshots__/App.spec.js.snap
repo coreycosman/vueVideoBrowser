@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App.vue should mount App with data props 1`] = `Array []`;
+
+exports[`App.vue should mount App with data props 2`] = `Object {}`;
+
+exports[`App.vue should render html with all child components 1`] = `""`;
